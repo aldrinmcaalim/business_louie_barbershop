@@ -5,6 +5,10 @@
   /* border: 2px solid red; */
 }
 
+body {
+  font-family: "Nanum Myeongjo", serif;
+}
+
 .header {
   width: 100%;
   height: 100vh;
@@ -120,7 +124,7 @@
 }
 
 .about-us-section p {
-  line-height: 1.5;
+  line-height: 2;
   width: 50%;
   font-size: 1.2rem;
 }
@@ -187,4 +191,5 @@
 .footer-div span {
   width: 35%;
   font-size: 1.25rem;
+  line-height: 1.5;
 }
